@@ -1,2 +1,2 @@
 # Python-practice
-Python practice problems
+Python practice problems in Python class
