@@ -1,2 +1,2 @@
 # Python-practice
-Puthon practice problems
+Python practice problems
